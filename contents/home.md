@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Haolin-L](https://img.shields.io/badge/Haolin-L-github-blue?logo=github)](https://github.com/Haolin-L)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am an undergraduate student at Hangzhou Dianzi University, majoring in Intelligent Science and Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 3562353198@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Intelligent Science and Technology, Hangzhou Dianzi University, 2024—2028.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+3D Coverage Planning for Robotic Manipulators; Flexible/Compliant Control; Embodied Intelligence
 
