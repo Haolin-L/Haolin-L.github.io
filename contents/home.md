@@ -1,6 +1,5 @@
 
 
-[![Haolin-L](https://img.shields.io/badge/Haolin-L-github-blue?logo=github)](https://github.com/Haolin-L)
 
 I am an undergraduate student at Hangzhou Dianzi University, majoring in Intelligent Science and Technology.
 
